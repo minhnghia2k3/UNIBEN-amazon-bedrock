@@ -12,3 +12,8 @@ Workshop participants build simple generative AI demo applications while learnin
 - Content and prompt contributions from: Nadia Perrone, Victor Moreno
 - Guardrails labs co-authored by: David Bounds
 - Image variation lab updated & Image style mixing lab authored by: Jeremy Bartosiewicz
+
+### Reference Links:
+- UNIBEN Building with Amazon Bedrock: https://catalog.us-east-1.prod.workshops.aws/join?access-code=3a74-014e42-ef
+- Lead Author: https://community.aws/@jsgs
+
