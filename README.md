@@ -14,6 +14,6 @@ Workshop participants build simple generative AI demo applications while learnin
 - Image variation lab updated & Image style mixing lab authored by: Jeremy Bartosiewicz
 
 ### Reference Links:
-- UNIBEN Building with Amazon Bedrock: _DM me or Email to nghialm2603@gmail.com_
+- UNIBEN Building with Amazon Bedrock: https://catalog.us-east-1.prod.workshops.aws/
 - Lead Author: https://community.aws/@jsgs
 
